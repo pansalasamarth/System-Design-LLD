@@ -1,0 +1,11 @@
+Requirements (Payment Gateway System)
+- Should support multiple providers (paytm, Razorpay, Stripe etc.)
+- We can easily add new gateway in future
+- There should be a standard payment flow, with required validations
+- Have error handling & Retries mechanism
+
+Additional features
+- There can be different ways/strategies of retry mechanism 
+  - Linear retry
+  - Exponential back-off
+- Try adding recurring payment flow/subscription 

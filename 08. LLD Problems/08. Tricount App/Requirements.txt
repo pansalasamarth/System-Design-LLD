@@ -1,0 +1,8 @@
+Requirements
+- User can join/leave a group
+- User can add expense in a group
+- User can settle an expense in a group
+- Adding expense should be based on several strategies (Equal split, % split, exact split)
+- User can't leave group without settling expenses
+- User can also add individual expenses, outside group (one-on-one)
+- A notification to besent when an expense is added/settled
